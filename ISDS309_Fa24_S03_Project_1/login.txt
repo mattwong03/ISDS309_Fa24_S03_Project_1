@@ -1,0 +1,5 @@
+Username,Password,Name,Email
+mouserat,password,John Rat,john@example.com
+bill_smith,securepass,Jane Smith,jane@example.com
+ryan_nguyen,123password,Ryan Nguyen,ryan@example.com
+dexter,1234,Dexter Tang,Dexter@example.com

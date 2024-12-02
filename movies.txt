@@ -1,0 +1,6 @@
+MovieID,Title,Genre,IMDbRating,ReleaseDate
+1,Avatar 2,Sci-Fi Adventure,8,2022
+2,Oppenheimer,Historical Drama,9,2023
+3,Barbie,Comedy/Fantasy,7,2023
+4,Shrek,Comedy/Adventure,8,2001
+5,Croods,Comedy/Animation,7,2013
